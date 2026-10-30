@@ -1,4 +1,4 @@
-# CUPP - Common User Passwords Profiler
+loveyou811241 CUPP - Common User Passwords Profiler
 
 [![Build Status](https://travis-ci.org/Mebus/cupp.svg?branch=master)](https://travis-ci.org/Mebus/cupp)
 [![Coverage Status](https://coveralls.io/repos/github/Mebus/cupp/badge.svg)](https://coveralls.io/github/Mebus/cupp)
